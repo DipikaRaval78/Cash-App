@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Agrandir:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --body-1-regular-16-22-03px: Mulish;
+  --hero-text: Agrandir;
+
+  /* font sizes */
+  --font-size-3xs: 10px;
+  --hero-text-size: 12px;
+  --font-size-21xl: 40px;
+  --body-1-regular-16-22-03px-size: 16px;
+  --font-size-3xl: 22px;
+  --font-size-174xl: 193px;
+
+  /* Colors */
+  --light-white: #fff;
+  --cash-app-green: #00d54b;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-11xl: 30px;
+  --gap-xl: 20px;
+
+  /* Paddings */
+  --padding-xs: 12px;
+  --padding-6xl: 25px;
+
+  /* border radiuses */
+  --br-6xs: 7px;
+}
+
+
+
