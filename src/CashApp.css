@@ -72,11 +72,11 @@
   position: relative;
   width: 64px;
 } */
-.eye-button  .layer {
+.eye-button-layer {
   height: 36px;
-  left: 0;
-  position: fixed;
-  top: 0;
+  /* left: 0; */
+  position: absolute;
+  /* top: 0; */
   width: 64px;
   background-image: url(./eye-button.png);
 
