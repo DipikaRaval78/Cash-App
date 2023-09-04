@@ -7,7 +7,7 @@ export const PaymentSection = () => {
       <div className="overlap-group">
       <div className="payments-floor" />
       <div className="section-text">
-      <img className="payments-text" alt=" "/>
+      <picture className="payments-text" alt=" "/>
       <p className="send-and-receive">
         Send and receive money with anyone, donate <br/>
         to an important cause, or tip professionals. <br />
@@ -17,16 +17,16 @@ export const PaymentSection = () => {
     </div>
 
    
-      <img className="payments-phone" alt=" " />
-      <img className="payments-column" alt=" " />
-      <img className="payments-pillar" alt=" " />
-      <img className="payments-pillar-small"  alt=" "/>
-      <img className="payments-pillar-medium" alt=" " />
-      <img className="payments-pillar-medium-1" alt=" " />
-      <img className="payments-pillar-medium-2" alt=" " />
-      <img className="payments-pillar-medium-3" alt=" " />
-      <img className="payments-column-1" alt=" " />
-      <img className="payments-column-2" alt=" " />
+      <picture className="payments-phone" alt=" " />
+      <picture className="payments-column" alt=" " />
+      <picture className="payments-pillar" alt=" " />
+      <picture className="payments-pillar-small"  alt=" "/>
+      <picture className="payments-pillar-medium" alt=" " />
+      <picture className="payments-pillar-medium-1" alt=" " />
+      <picture className="payments-pillar-medium-2" alt=" " />
+      <picture className="payments-pillar-medium-3" alt=" " />
+      <picture className="payments-column-1" alt=" " />
+      <picture className="payments-column-2" alt=" " />
 
 
 

@@ -7,10 +7,10 @@ export const BankingSection = () => {
 <div className="overlap">
 <div className="overlap-group">
 <div className="div">
-<img className="banking-cubes" alt=" " />
-<img className="banking-track" alt=" " />
-<img className="banking-phone" alt=" " />
-<img className="banking-ramp" alt=" " />
+<picture className="banking-cubes" alt=" " />
+<picture className="banking-track" alt=" " />
+<picture className="banking-phone" alt=" " />
+<picture className="banking-ramp" alt=" " />
 <div className="section-text">
 <div className="text-wrapper">Banking</div>
 <p className="receive-your">
@@ -21,18 +21,18 @@ and account number.
 </p>
 </div>
 </div>
-<img className="img" alt=" "/>
-<img className="banking-track-2" alt=" " />
-<img className="banking-tube" alt=" " />
+<picture className="picture" alt=" "/>
+<picture className="banking-track-2" alt=" " />
+<picture className="banking-tube" alt=" " />
 <div className="overlap-2">
-<img className="banking-hole" alt=" " />
-<img className="banking-column" alt=" " />
+<picture className="banking-hole" alt=" " />
+<picture className="banking-column" alt=" " />
 </div>
 </div>
-<img className="banking-monster" alt=" " />
-<img className="banking-stairs" alt=" " />
-<img className="banking-stairs-2" alt=" " />
-<img className="banking-hole-2" alt=" " />
+<picture className="banking-monster" alt=" " />
+<picture className="banking-stairs" alt=" " />
+<picture className="banking-stairs-2" alt=" " />
+<picture className="banking-hole-2" alt=" " />
 </div>
 </div> 
     )

@@ -5,14 +5,14 @@ export const CashCardSection = () => {
     return (
     <div className="section-cash-card">
     <div className="overlap-group">
-    <img className="boost-stairs" alt=" " />
-    <img className="img" alt=" " />
-    <img className="boost-card" alt=" " />
-    <img className="boost-coffee" alt=" " />
-    <img className="boost-hand" alt=" " />
-    <img className="boost-phone" alt=" " />
-    <img className="boost-shoe" alt=" " />
-    <img className="boost-burger" alt=" " />
+    <picture className="boost-stairs" alt=" " />
+    <picture className="picture" alt=" " />
+    <picture className="boost-card" alt=" " />
+    <picture className="boost-coffee" alt=" " />
+    <picture className="boost-hand" alt=" " />
+    <picture className="boost-phone" alt=" " />
+    <picture className="boost-shoe" alt=" " />
+    <picture className="boost-burger" alt=" " />
     <div className="section-text">
     <div className="cash-card-boost">
     Cash Card

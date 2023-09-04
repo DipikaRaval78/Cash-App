@@ -1,4 +1,3 @@
-//import logo from './logo.svg';
 import { BankingSection } from './BankingSection';
 import './CashApp.css';
 import { CashCardSection } from './CashCardSection';

@@ -7,17 +7,17 @@ export const InvestingSection = () => {
     <div className="overlap">
     <div className="investing-floor">
     <div className="overlap-group">
-    <img className="horizontal" alt=" " />
-    <img className="forwordslash" alt=" " />
-<img className="vector-2" alt=" "/>
-<img className="vector-3" alt=" "/>
+    <picture className="horizontal" alt=" " />
+    <picture className="forwordslash" alt=" " />
+<picture className="vector-2" alt=" "/>
+<picture className="vector-3" alt=" "/>
 
-    <img className="investing-graph" alt=" " />
+    <picture className="investing-graph" alt=" " />
     </div>
     </div>
-    <img className="investing-rays" alt=" " />
-    <img className="img" alt=" " />
-    <img className="investing-graph-2" alt=" " />
+    <picture className="investing-rays" alt=" " />
+    <picture className="picture" alt=" " />
+    <picture className="investing-graph-2" alt=" " />
     <div className="section-text">
     <div className="text-wrapper font-size" >Stocks</div>
     <p className="div">
@@ -37,18 +37,18 @@ export const InvestingSection = () => {
     </p>
     </div>
     <div className="text-wrapper-2">Investing</div>
-    <img className="investing-stocks" alt=" " />
-    <img className="investing-bitcoin" alt=" " />
+    <picture className="investing-stocks" alt=" " />
+    <picture className="investing-bitcoin" alt=" " />
     <div className="fixed-footer">
      
      <div className="download-icons">
    <div className="buttons">
      <div className="app-store">
-       <img className="vector margin-div" alt=" " />
+       <picture className="vector margin-div" alt=" " />
        <div className="label padding-label">APP STORE</div>
      </div>
      <div className="google-play">
-       <img className="img-google margin-div" alt=" "  />
+       <picture className="picture-google margin-div" alt=" "  />
        <div className="text-wrapper padding-label">GOOGLE PLAY</div>
      </div>
    </div>
@@ -66,10 +66,10 @@ export const InvestingSection = () => {
       </div>
 
    <div className="buttons-2">
-   <img className="frame" alt=" " />
-   <img className="frame-2" alt=" " />
+   <picture className="frame" alt=" " />
+   <picture className="frame-2" alt=" " />
 
-   <img className="img2" alt=" " />
+   <picture className="picture2" alt=" " />
  </div>
 
  </div>

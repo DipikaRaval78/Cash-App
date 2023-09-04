@@ -7,7 +7,8 @@ export const HeroSection = () => {
     <div className="hero-section">
       <div className="overlap">
    <div className="eye-button">
-      <img className="eye-button-layer" alt=" " />
+    
+      <picture className="eye-button-layer" />
     </div>
         <div className="navbar">
           <div className="text-wrapper">SIGN IN</div>
@@ -20,26 +21,26 @@ export const HeroSection = () => {
           <div className="text-wrapper">STATUS</div>
           <div className="text-wrapper">CODEBLOG</div>
         </div>
-        <img className="cashapp-logo" alt=" " />
+        <picture className="cashapp-logo"  alt=" " />
         <div className="rays">
           <div className="hero">
             <div className="overlap-group">
             <div className="frame">
-<img className="vector-rays" alt=" " />
+<picture className="vector-rays" alt=" " />
 </div> 
-              {/* <img className="layer" alt="Layer" src="layer-1.png" /> */}
+              {/* <picture className="layer" alt="Layer" src="layer-1.png" /> */}
               <div className="div">CASH</div>
             <div className="image">
-            <img className="intro-phone" alt=" "/>
+            <picture className="intro-phone" alt=" "/>
             </div>
               <div className="APP">
                 <br />
                 APP
               </div>
-              <img className="intro-cube" alt=" "/>
-              <img className="intro-cubes" alt=" " />
-              <img className="intro-pillar" alt=" "/>
-              <img className="intro-stairs" alt=" "/>
+              <picture className="intro-cube" alt=" "/>
+              <picture className="intro-cubes" alt=" " />
+              <picture className="intro-pillar" alt=" "/>
+              <picture className="intro-stairs" alt=" "/>
             </div>
           </div>
         </div>
@@ -49,11 +50,11 @@ export const HeroSection = () => {
         <div className="download-icons">
       <div className="buttons">
         <div className="app-store">
-          <img className="vector margin-div" alt=" " />
+          <picture className="vector margin-div" alt=" " />
           <div className="label padding-label">APP STORE</div>
         </div>
         <div className="google-play">
-          <img className="img margin-div" alt=" "  />
+          <picture className="picture margin-div" alt=" "  />
           <div className="text-wrapper padding-label">GOOGLE PLAY</div>
         </div>
       </div>
@@ -71,12 +72,12 @@ export const HeroSection = () => {
       </div>
 
       <div className="buttons-2">
-      <img className="frame" alt=" " />
-      <img className="img" alt=" " />
-      <img className="frame-2" alt=" " />
+      <picture className="frame" alt=" " />
+      <picture className="picture" alt=" " />
+      <picture className="frame-2" alt=" " />
     </div>
  
-    <img className="vector-arrow" alt=" " />
+    <picture className="vector-arrow" alt=" " />
 
 
     
