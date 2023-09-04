@@ -7,7 +7,7 @@ export const HeroSection = () => {
     <div className="hero-section">
       <div className="overlap">
    <div className="eye-button">
-      <img className="layer" alt=" " src="./eye-button.png" />
+      <img className="layer" alt=" " />
     </div>
         <div className="navbar">
           <div className="text-wrapper">SIGN IN</div>
