@@ -11,7 +11,7 @@ import { PaymentSection } from './PaymentSection';
 export const CashApp = () => {
   return (
     <div className="cash-app">
-      <div className="div">
+      <div className="div container">
         <div className="overlap">
             <HeroSection/>     
             <PaymentSection/>  

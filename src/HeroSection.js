@@ -6,13 +6,13 @@ export const HeroSection = () => {
   return (
     <div className="hero-section">
       <div className="overlap">
-      <div className="eye-button">
+   <div className="eye-button">
       <img className="layer" alt=" " src="./eye-button.png" />
     </div>
         <div className="navbar">
           <div className="text-wrapper">SIGN IN</div>
           <div className="text-wrapper">LEGAL</div>
-          <div className="licenses">LICENSES</div>
+          <div className="text-wrapper">LICENSES</div>
           <div className="text-wrapper">SECURITY</div>
           <div className="text-wrapper">CAREERS</div>
           <div className="text-wrapper">PRESS</div>

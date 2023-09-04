@@ -1255,3 +1255,116 @@ width: 172px;
     .padding-label {
       padding: 20px;
     }
+
+    @media only screen and (min-width: 480px) {
+      /* styles for devices with a minimum screen width of 480px */
+      /* .cash-app {
+        display: block;
+      } */
+      .container {
+        display: flex;
+      }
+      }
+     
+        
+      
+      @media only screen and (max-width: 480px) {
+      /* styles for devices with a maximum screen width of 480px */
+      .cash-app {
+        display: block;
+      }
+      .container {
+        display: flex;
+      }
+      }
+    
+      @media only screen and (max-width: 810px) {
+        /* styles for devices with a maximum screen width of 480px */
+        .cash-app {
+          display: block;
+        }
+        .container {
+          display: flex;
+        }
+        }
+     
+       
+      
+        @media screen and (min-width: 820px) and (max-width: 1024px) {
+          .cash-app {
+            display: block !important;
+          }
+        }
+      /* @media screen 
+      and (min-device-width: 1200px) 
+      and (max-device-width: 1600px) 
+      and (-webkit-min-device-pixel-ratio: 1) { 
+        .cash-app {
+          display: block;
+        }
+        .container {
+          display: flex;
+        }
+    } */
+    
+    /* ----------- Retina Screens ----------- */
+    @media screen 
+      and (min-device-width: 1200px) 
+      and (max-device-width: 1600px) 
+      and (-webkit-min-device-pixel-ratio: 2)
+      and (min-resolution: 192dpi) { 
+        /* .cash-app {
+          display: block;
+        } */
+        .container {
+          display: flex;
+        }
+    }
+
+    @media only screen 
+    and (min-device-width: 768px) 
+    and (max-device-width: 1024px) 
+    and (-webkit-min-device-pixel-ratio: 1) {
+      .container {
+        display: flex;
+      }
+  
+  }
+  
+  /* Portrait */
+  @media only screen 
+    and (min-device-width: 768px) 
+    and (max-device-width: 1024px) 
+    and (orientation: portrait) 
+    and (-webkit-min-device-pixel-ratio: 1) {
+      .container {
+        display: block;
+        margin-left: 34rem;
+      }
+  
+  }
+  
+  /* Landscape */
+  @media only screen 
+    and (min-device-width: 768px) 
+    and (max-device-width: 1024px) 
+    and (orientation: landscape) 
+    and (-webkit-min-device-pixel-ratio: 1) {
+      .container {
+        display: flex;
+      }
+  
+  }
+      /* @media only screen and (max-width: 480px) {
+       hide element on small screens 
+        .my-element {
+        display: none;
+        }
+        } */
+        
+        /* @media only screen and (min-width: 480px) and (max-width: 1024px) {
+         show element on medium-sized screens 
+        .my-element {
+        display: block;
+        }
+        } */
