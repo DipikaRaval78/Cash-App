@@ -19,7 +19,7 @@ export const InvestingSection = () => {
     <img className="img" alt=" " />
     <img className="investing-graph-2" alt=" " />
     <div className="section-text">
-    <div className="text-wrapper">Stocks</div>
+    <div className="text-wrapper font-size" >Stocks</div>
     <p className="div">
     Whether you’re an expert or just getting <br/>
     started, Cash App is the fastest and most <br/>
@@ -28,7 +28,7 @@ export const InvestingSection = () => {
     </p>
     </div>
     <div className="section-text-2">
-    <div className="text-wrapper">Bitcoin</div>
+    <div className="text-wrapper font-size" >Bitcoin</div>
     <p className="p">
     Cash App is the fastest way to convert <br/>
     dollars to bitcoin. From your home screen,<br/>

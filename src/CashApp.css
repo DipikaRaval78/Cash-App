@@ -616,7 +616,7 @@ width: 172px;
           top: 233px;
           width: 187px; */
           height: 401px;
-          left: -612px;
+          left: -590px;
           object-fit: cover;
           position: absolute;
           top: 233px;
@@ -1068,7 +1068,9 @@ width: 172px;
     top: 288px;
     width: 352px;
 }
-
+.font-size{
+  font-size: 40px !important;
+}
 .section-investing .text-wrapper {
   color: #000;
   font-family: "Agrandir-WideHeavy", Helvetica;
